@@ -77,7 +77,7 @@ Plot your c/c++ language code on Arduino environment then press verify and impor
 
 # Code Details:
 
-the project contain one file (LineFollower-ObjectAvoidance.ino) which controls the car and sensors.
+the project contain one file (LineFollower_ObjectAvoidance.ino) which controls the car and sensors.
 the code starts by the varialbles and the pins to use on the Arduino.
 
 code example:
