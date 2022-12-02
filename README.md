@@ -1,7 +1,7 @@
 # Overview
-Arduino Line Follower Car with Object Avoidance project at California State University Channel Islands (CSUCI) done by Romeo Touma. Line follower with obstacle avoidance is an intelligent robot that we can program it to start detecting a visual line embedded on the floor to follow it with. The path is like a black line on a white surface with a high contrasted color. In order to detect these lines and avoid objects, various sensors can be employed on the car and programed to act as necessary to get the car do the job.
+Arduino Line Follower Car with Object Avoidance project at California State University Channel Islands (CSUCI) done by Romeo Touma. Line follower with obstacle avoidance is an intelligent robot that is programmed to follow a visual line embedded and predefined as a black line on a white surface to. Not only that, but also its programmed to avoid any object ahead while following the line. However, For the car to accomplish these tasks giving, it’s going to be working with two types of sensors, IR sensor and ultra-sonic sensor.
 
-
+![alt text](https://github.com/RomeoT87/Line-Follower-and-Object-Avoidance/blob/main/photos/arduino%20car%202.jpg)
 
 
 # Dependencies:
@@ -66,6 +66,10 @@ Trig to D3
 
 Vcc to 5 volt port
 
+### here is a diagram to help with wiring:
+
+
+![alt text](https://github.com/RomeoT87/Line-Follower-and-Object-Avoidance/blob/main/photos/diagram.jpg)
 
 ## Software:
 
@@ -74,6 +78,7 @@ Download Arduino IDE software on your pc/laptop
 Plot your c/c++ language code on Arduino environment then press verify and import it to Arduino board after connecting it to your laptop/pc via usb port.
 
 
+![alt text](https://github.com/RomeoT87/Line-Follower-and-Object-Avoidance/blob/main/photos/xy%201.jpg)
 
 # Code Details:
 
